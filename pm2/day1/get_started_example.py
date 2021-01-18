@@ -47,3 +47,4 @@ pre_y = model.predict(new_x)
 print round(pre_y)
 
 
+#导入库，获取数据，数据预处理，数据展示分析，数据建模，模型评估，数据预测
